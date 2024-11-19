@@ -69,17 +69,18 @@ main {
 }
 
 .weather-icon {
-  margin-top: 22px;
-  font-size: 44px;
+  height: 88px;
+  width: 88px;
 }
 
 .weather-temp {
-  font-size: 85px;
+  font-size: 88px;
   font-weight: bold;
+  line-height: 88px;
 }
 
 .weather-unit {
-  margin-top: 25px;
+  margin-top: 10px;
   font-size: 25px;
 }
 
